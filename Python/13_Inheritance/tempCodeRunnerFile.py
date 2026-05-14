@@ -1,0 +1,1 @@
+self.comp_name = comp_name
