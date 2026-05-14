@@ -1,0 +1,4 @@
+name,age,salary,is_adult,high_income
+Akash,24,50000,True,True
+Ravi,17,10000,False,False
+Neha,30,70000,True,True
